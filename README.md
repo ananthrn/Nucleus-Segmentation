@@ -17,4 +17,5 @@ Architectures and baseline models for the Nucleus Segmentation Challenge as part
 
 * https://github.com/matterport/Mask_RCNN/tree/master/samples - used as reference to construct MRCNN model to establish a baseline and then use in ensembling Mask R-CNN and U-Net
 
-Please feel free to contact me at ananth360@gmail.com for any images/weights required to run the model. 
+# Contact
+Please feel free to contact me at ananth360@gmail.com for any images/weights required to run the model or for permission to use the code or material in the report. 
