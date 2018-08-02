@@ -10,6 +10,8 @@ Architectures and baseline models for the Nucleus Segmentation Challenge as part
 
 * Ensemble/ - contains all scripts for the ensemble models
 
+* Report/ - contains the report describing the architectures, preprocessing and results in detail
+
 # References used
 * https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277?scriptVersionId=2164855  - used to construct baseline U-Net model, and is further modified to construct other versions of U-Net and is then used in ensembling U-Nets and U-Net and Mask R-CNN. 
 
